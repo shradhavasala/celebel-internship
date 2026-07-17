@@ -252,3 +252,4 @@ While SmartForecast is currently fully production-ready, potential enterprise ex
 ## 📝 License & Contributing
 
 Distributed under the MIT License. Contributions, issues, and feature requests are welcome!
+# celebel-internship
